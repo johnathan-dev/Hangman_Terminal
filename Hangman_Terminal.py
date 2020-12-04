@@ -1,6 +1,6 @@
 '''
     Hangman_Terminal
-    by Johnathan Davidow
+    original code by Johnathan Davidow
     Visit https://johnathandavidow.000webhostapp.com for more.
 '''
 
